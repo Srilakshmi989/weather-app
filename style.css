@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://cdn.pixabay.com/animation/2023/03/05/12/04/12-04-53-685_512.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container {
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+    border-radius: 10px;
+    width: 20%;
+    border: 5px solid white;
+    margin-left: 38%;
+}
